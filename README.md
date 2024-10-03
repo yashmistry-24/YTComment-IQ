@@ -2,6 +2,8 @@
 
 YTComment-IQ is a web-based application built to analyze and visualize YouTube comments from any video. Powered by natural language processing techniques, the app offers sentiment analysis, topic modeling, word frequency insights, and various visualizations to help you gain meaningful insights from YouTube comments.
 
+[Enjoy YTComment-IQ](https://ytcomment-iq.streamlit.app/)
+
 ## Features
 
 ### 1. Sentiment Analysis:
@@ -96,11 +98,6 @@ streamlit run app.py
 - WordCloud: For generating word clouds.
 - sklearn: For LDA topic modeling.
 - Matplotlib: For additional visual plots.
-
-
-## Deployment
-YTComment-IQ is deployed on Streamlit Cloud.
-You can visit by following:
 
 
 ## License
