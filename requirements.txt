@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+google-api-python-client
+nltk
+vaderSentiment
+textblob
+matplotlib
+wordcloud
+scikit-learn
